@@ -8,7 +8,7 @@ The application includes a responsive landing page, product browsing, authentica
 
 ## 🌐 Live Demo
 
-🔗 **Frontend:** https://bakers-nest-1.onrender.com
+🔗 **Frontend:** (https://bakers-nest.onrender.com/)
 
 🔗 **GitHub Repository:** https://github.com/itsNitika/Bakers-nest
 
